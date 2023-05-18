@@ -19,7 +19,7 @@ O repositório é organizado de forma simples, com o intuito de facilitar a nave
 - 📁 **[Dicas](https://github.com/Diegiwg/Mentoria/tree/master/dicas)**
 - 📁 **[Documentos](https://github.com/Diegiwg/Mentoria/tree/master/documentos)**
 - 📁 **[Outros](https://github.com/Diegiwg/Mentoria/tree/master/outros)**
-- 📁 **[Relatórios](https://github.com/Diegiwg/Mentoria/tree/master/relatórios)**
+- 📁 **[Relatórios](https://github.com/Diegiwg/Mentoria/tree/master/relatorios)**
 - 📁 **[Rotinas](https://github.com/Diegiwg/Mentoria/tree/master/rotinas)**
 
 ## Aproveite ao Máximo
