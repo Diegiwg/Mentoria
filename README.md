@@ -10,11 +10,11 @@ O objetivo deste repositório é criar um local centralizado para consolidar e o
 
 O repositório é organizado de forma simples, com o intuito de facilitar a navegação e a localização dos conteúdos relevantes. Aqui está uma visão geral da estrutura:
 
-- 📁 **[Dicas](./Dicas)**
-- 📁 **[Documentos](./Documentos)**
-- 📁 **[Outros](./Outros)**
-- 📁 **[Relatórios](./Relatórios)**
-- 📁 **[Rotinas](./Rotinas)**
+- 📁 **[Dicas](https://github.com/Diegiwg/Mentoria/tree/master/Dicas)**
+- 📁 **[Documentos](https://github.com/Diegiwg/Mentoria/tree/master/Documentos)**
+- 📁 **[Outros](https://github.com/Diegiwg/Mentoria/tree/master/Outros)**
+- 📁 **[Relatórios](https://github.com/Diegiwg/Mentoria/tree/master/Relatórios)**
+- 📁 **[Rotinas](https://github.com/Diegiwg/Mentoria/tree/master/Rotinas)**
 
 ## Aproveite ao Máximo
 
