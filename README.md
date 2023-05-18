@@ -6,6 +6,11 @@ Bem-vindo(a) ao repositório de aprendizado da mentoria! Este repositório é ex
 
 O objetivo deste repositório é criar um local centralizado para consolidar e organizar os conhecimentos adquiridos ao longo da mentoria. Ele servirá como um repositório pessoal, onde você poderá revisitar as informações importantes, acompanhar seu progresso e manter um registro de todas as orientações e recursos compartilhados durante a mentoria.
 
+## Rotina Atual
+
+- 📌 **[Rotina Atual](https://github.com/Diegiwg/Mentoria/blob/027775cc2f9ada2974a2e79664cd72dcbf9d02b5/rotinas/primeira-versao.md)**
+Nesta seção, você encontrará informações sobre a sua rotina atual. É importante manter esse documento atualizado para que você possa acompanhar o seu progresso ao longo do tempo.
+
 ## Estrutura do Repositório
 
 O repositório é organizado de forma simples, com o intuito de facilitar a navegação e a localização dos conteúdos relevantes. Aqui está uma visão geral da estrutura:
