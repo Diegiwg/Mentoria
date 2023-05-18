@@ -9,6 +9,7 @@ O objetivo deste repositório é criar um local centralizado para consolidar e o
 ## Rotina Atual
 
 - 📌 **[Rotina Atual](https://github.com/Diegiwg/Mentoria/blob/027775cc2f9ada2974a2e79664cd72dcbf9d02b5/rotinas/primeira-versao.md)**
+
 Nesta seção, você encontrará informações sobre a sua rotina atual. É importante manter esse documento atualizado para que você possa acompanhar o seu progresso ao longo do tempo.
 
 ## Estrutura do Repositório
