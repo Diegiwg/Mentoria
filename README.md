@@ -12,6 +12,10 @@ O objetivo deste repositório é criar um local centralizado para consolidar e o
 
 Nesta seção, você encontrará informações sobre a sua rotina atual. É importante manter esse documento atualizado para que você possa acompanhar o seu progresso ao longo do tempo.
 
+## Ponto Atual
+
+- No curso de Python, estou atualmente na aula de etiqueta #F060.
+
 ## Estrutura do Repositório
 
 O repositório é organizado de forma simples, com o intuito de facilitar a navegação e a localização dos conteúdos relevantes. Aqui está uma visão geral da estrutura:
