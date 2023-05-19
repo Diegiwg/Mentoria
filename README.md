@@ -15,6 +15,7 @@ Nesta seção, você encontrará informações sobre a sua rotina atual. É impo
 ## Ponto Atual
 
 - No curso de Python, estou atualmente na aula de etiqueta #F060.
+- No curso de Banco de Dados, estou atualmente na aula Aula 7.
 
 ## Estrutura do Repositório
 
